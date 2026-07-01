@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Bragpacker WordPress Plugins
 
 Custom plugins built for bragpacker.com
